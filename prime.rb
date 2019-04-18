@@ -1,5 +1,5 @@
 def prime?(x)
-  for i do 
+  for i do |y|
     2..i - 1
     if x % y == 0
     return false
